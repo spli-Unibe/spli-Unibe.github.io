@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_8590.JPG"
   name             : "Shaopeng Li"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate, majors in remote sensing"
   location         : "Switzerland"
   employer         : "University of Bern"
-  uri              : https://www.geography.unibe.ch/about_us/staff/li_shaopeng/index_eng.html
+  uri              : https://spli-unibe.github.io
   email            : "shaopeng.li@unibe.ch" 
 
   # Academic websites
