@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shaopeng Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "PhD candidate, majors in remote sensing"
+  location         : "Switzerland"
+  employer         : "University of Bern"
+  uri              : https://www.geography.unibe.ch/about_us/staff/li_shaopeng/index_eng.html
+  email            : "shaopeng.li@unibe.ch" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
