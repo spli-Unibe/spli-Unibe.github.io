@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://spli-unibe.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "PhD candidate, majors in remote sensing"
   location         : "Switzerland"
   employer         : "University of Bern"
-  uri              : https://spli-unibe.github.io
+  uri              : https://spli-unibe.github.io/
   email            : "shaopeng.li@unibe.ch" 
 
   # Academic websites
