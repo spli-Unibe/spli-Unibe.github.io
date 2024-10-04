@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_8590.JPG"
+  avatar           : "shaoshao_github.png"
   name             : "Shaopeng Li"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate, majors in remote sensing"
